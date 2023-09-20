@@ -1,0 +1,4 @@
+virtualenv crmenv                --------------command to create venv
+E:\CRM_django_project\crmenv\Scripts\activate                          activate virtual environmrnt
+pip install django ..................for this env install django
+django-admin startproject customer_relationship_managment .                  (. for create only one folder)
